@@ -7,5 +7,5 @@ set /a n+=1
 echo ÕýÔÚ½øÐÐµÚ%n%´Î³¢ÊÔ
 echo.
 .\main.exe
-timeout /t 0.5
+timeout /t 0
 goto :cycle
